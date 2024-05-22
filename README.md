@@ -1,3 +1,6 @@
+# Note
+- Support Java <= 11
+
 # Mapbox Android Demo app
 
 ![](https://github.com/mapbox/mapbox-android-demo/blob/master/screenshots/splash.png)
